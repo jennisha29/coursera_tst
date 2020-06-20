@@ -27,7 +27,7 @@ body {
 }
 
 .navbar-brand, .navbar-nav li a {
-    line-height: 76px;
+    line-height: 100px;
     height: 76px;
     padding-top: 0;
 }
@@ -36,7 +36,7 @@ body {
     color: #7d1913;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
-    font-size: 1.8em;
+    font-size: 1.9em;
 }
 
 .navbar-brand a:hover {
